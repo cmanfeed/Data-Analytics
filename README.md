@@ -7,7 +7,7 @@
 # Data Analytics
 <sub>**Chegue mais, não se acanhe**</sub>
 
-Fala pessoal! Nesse repositório estão todos os meus projetos de Analytics. Apesar de ter experiência com Data Science e modelos de predição, atualmente estou solificando meus conhecimentos em EDA (Análise Exploratória de Dados), Manipulação de Dados e Visualização de Dados. Aqui uso predominantemente o Jupyter Notebook com a linguagem Python. Tenho conhecimento básico em algumas ferramentas, como Tableau e Power BI, mas confesso que não é meu forte. Ainda estou trabalhando nisso 😂 Atualmente estou trabalhando com um projeto de pesquisa que envolve a área de visão computacional. Entretanto, vez em quando darei um update nos projetos que tenho feito por aqui.
+Fala pessoal! Nesse repositório estão todos os meus projetos de Analytics. Apesar de ter experiência com Data Science e modelos de predição, atualmente estou solidificando meus conhecimentos em EDA (Análise Exploratória de Dados), Manipulação de Dados e Visualização de Dados. Aqui uso predominantemente o Jupyter Notebook com a linguagem Python. Tenho conhecimento básico em algumas ferramentas, como Tableau e Power BI, mas confesso que não é meu forte. Ainda estou trabalhando nisso 😂 Atualmente estou trabalhando com um projeto de pesquisa que envolve a área de visão computacional. Entretanto, vez em quando darei um update nos projetos que tenho feito por aqui.
 
 **Background:** Python | SQL | Machine Learning | Data Visualization
 

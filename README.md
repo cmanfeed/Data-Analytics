@@ -17,7 +17,6 @@ Fala pessoal! Nesse repositório estão todos os meus projetos de Analytics. Ape
 
 
 ## Autorais:
-Aqui você encontra os notebooks dos meus projetos na área de Data Analytics.
 
 * [**House Sales in King County, USA**](https://github.com/cmanfeed/Data-Analytics/blob/main/House%20Sales%20in%20King%20County%2C%20USA/House%20Sales%20in%20King%20County%2C%20USA.ipynb)
   * Encontrando correlações entre variáveis em um dataset de venda de casas. Dataset disponibilizado pelo Kaggle.

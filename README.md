@@ -20,6 +20,8 @@ Fala pessoal! Nesse repositório estão todos os meus projetos de Analytics. Ape
 
 * [**House Sales in King County, USA**](https://github.com/cmanfeed/Data-Analytics/blob/main/House%20Sales%20in%20King%20County%2C%20USA/House%20Sales%20in%20King%20County%2C%20USA.ipynb)
   * Encontrando correlações entre variáveis em um dataset de venda de casas. Dataset disponibilizado pelo Kaggle.
+* [**Students Perfomance in Exams**](https://github.com/cmanfeed/Data-Analytics/blob/main/Students%20Performance%20in%20Exams/Students%20Performance%20in%20Exams.ipynb)
+  * Estudo dos dados da base e das possíveis causas que levam um estudante a tirar boas notas. Dataset disponibilizado pelo Kaggle.
 
 ## Não autorais:
 * [**Crime Rates in Expensive Neighborhoods**](https://github.com/cmanfeed/Data-Analytics/blob/main/Crime%20Rates%20in%20Expensive%20Neighborhoods/Crime%20Rates%20in%20Expensive%20Neighborhoods.ipynb)

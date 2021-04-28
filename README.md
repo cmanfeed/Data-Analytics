@@ -1,9 +1,5 @@
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 
-<!-- <p align="center">
-  <img src="images/analytics-image.jpg" >
-</p> -->
-
 # Data Analytics
 <sub>**Chegue mais, não se acanhe**</sub>
 
@@ -14,6 +10,7 @@ Fala pessoal! Nesse repositório estão todos os meus projetos de Analytics. Ape
 **Redes Sociais:**
 * [LinkedIn](https://www.linkedin.com/in/caio-manfredini/)
 * [Facebook](https://www.facebook.com/caio.manfredini/)
+* [Kaggle](https://www.kaggle.com/caiomanfredini)
 
 
 ## Autorais:
